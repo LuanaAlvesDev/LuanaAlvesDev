@@ -1,10 +1,4 @@
-# README.md
-git init
-git remote add origin [https://github.com/luanaalvesdev/portfolio.git](http://127.0.0.1:5500/index.htm#Inicio)
-git add .
-git commit -m "Deploy inicial do portfólio"
-git branch -M main
-git push -u origin main
+
 # 👩‍💻 Luana Alves
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** | Apaixonada por tecnologia, dados, desenvolvimento web e soluções criativas.
