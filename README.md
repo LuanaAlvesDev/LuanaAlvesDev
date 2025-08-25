@@ -36,10 +36,6 @@ Busco constantemente aprender novas ferramentas, colaborar em projetos e crescer
 
 ## 🌱 Em constante evolução
 
-- Aprendendo **Next.js**.
-- Estudando **Power BI** e análise de dados.
-- Aprofundando em **Git/GitHub** e **projetos colaborativos**
-
 ---
 
 ## 📈 GitHub Stats
